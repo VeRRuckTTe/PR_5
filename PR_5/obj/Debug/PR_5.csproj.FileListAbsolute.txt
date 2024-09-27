@@ -1,0 +1,14 @@
+D:\Учеба (С#)\PR_5\bin\Debug\PR_5.exe.config
+D:\Учеба (С#)\PR_5\bin\Debug\PR_5.exe
+D:\Учеба (С#)\PR_5\bin\Debug\PR_5.pdb
+D:\Учеба (С#)\PR_5\obj\Debug\PR_5.csproj.AssemblyReference.cache
+D:\Учеба (С#)\PR_5\obj\Debug\PR_5.csproj.CoreCompileInputs.cache
+D:\Учеба (С#)\PR_5\obj\Debug\PR_5.exe
+D:\Учеба (С#)\PR_5\obj\Debug\PR_5.pdb
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_5-main\PR_5\bin\Debug\PR_5.exe.config
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_5-main\PR_5\bin\Debug\PR_5.exe
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_5-main\PR_5\bin\Debug\PR_5.pdb
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_5-main\PR_5\obj\Debug\PR_5.csproj.AssemblyReference.cache
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_5-main\PR_5\obj\Debug\PR_5.csproj.CoreCompileInputs.cache
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_5-main\PR_5\obj\Debug\PR_5.exe
+D:\Users\1213-11\Documents\2-ИСП\ОП.04\Корнеева В. Е\PR_5-main\PR_5\obj\Debug\PR_5.pdb
